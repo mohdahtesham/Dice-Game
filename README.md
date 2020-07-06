@@ -1,3 +1,3 @@
 # Dice-Game
 Simple dice game for two players
-![Screenshot](screenshot(41).png)
+![Screenshot](Screenshot(41).png)
